@@ -1,4 +1,4 @@
-# Java Test Applications
+# Java Test Applications - check 12
 
 A collection of applications used for testing the Java buildpack.
 
